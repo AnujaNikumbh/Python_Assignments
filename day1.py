@@ -1,5 +1,4 @@
 #print 1 to 100 numbers using foor loop
-
 list = []
 for i in range(1,101):
     list.append(i)
